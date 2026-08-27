@@ -1,11 +1,9 @@
 ### Hello 👋
 
-**Senior UI Engineer**, India
-
 Things I spent most time with:
 
-- I’m currently working on React, Redux, react-native, Node.js
-- Startups,  web security, UX
-- Open for collaboration
+- Exploring Cybersecurity, Visual & Interaction Design, Learning Core and essential AI
+- Startup, Collaborations
+- & more
 
-That's it!
+*Having a purpose is all it's about!*
