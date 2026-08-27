@@ -1,6 +1,6 @@
-### Hello 👋
+### Hello 👋, Thanks for visiting
 
-Things I spent most time with:
+Currently:
 
 - Exploring Cybersecurity, Visual & Interaction Design, Learning Core and essential AI
 - Startup, Collaborations
