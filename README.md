@@ -1,6 +1,6 @@
 ### Hello 👋, Thanks for visiting
 
-Currently:
+Currently I'm:
 
 - Exploring Cybersecurity, Visual & Interaction Design, Learning Core and essential AI
 - Startup, Collaborations
